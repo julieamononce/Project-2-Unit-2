@@ -32,7 +32,6 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 <div>
     <a href="https://www.loom.com/share/ec63c47d04e0411daa3fd31d61217927">
-      <p>Editing Project-2-Unit-2/README.md at main · julieamononce/Project-2-Unit-2 - 6 March 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/ec63c47d04e0411daa3fd31d61217927">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec63c47d04e0411daa3fd31d61217927-4738dd10084dc17e-full-play.gif">
